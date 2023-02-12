@@ -8,3 +8,5 @@
 This repository host the de-identitified data from researches on https://bestbanana.cc
 
 Meta data is located on the second sheet of each excel.
+
+The intervened column is 1 if the score of the semester is more than 70, which is considered as exposed enough to the course intervention--otherwise it is 0.
