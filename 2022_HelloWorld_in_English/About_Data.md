@@ -1,4 +1,4 @@
-1101_pre.xlsx differs from 1101.xlsx, in that some participants didn't do the post-survey, yet their opinions are still valid. You can see it in Sheet1 of the data.
+1101_pre.xlsx differs from 1101.xlsx, in that some participants didn't do the post-survey, yet their opinions are still valid. You can see it in Sheet1 of the data. 1102.xlsx & 1102_pre.xlsx are designed for the use of other research. However the question regarding the evaluation of English utilization frequency is of value and thus included here.
 
 Meta data is located on the second sheet of each excel.
 
