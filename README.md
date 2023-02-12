@@ -10,3 +10,5 @@ This repository host the de-identitified data from researches on https://bestban
 Meta data is located on the second sheet of each excel.
 
 The column "Intervened" is 1 if the score of the semester is no less than 70, which is considered as exposed enough to the course intervention--otherwise it is 0.
+
+Notice the \_pre\_trapped\_ as well as \_pst\_trapped\_ questions is hidden among the question columns. We didn't move it to the front to align it with the original questionnaire. Make sure you handle them first.
