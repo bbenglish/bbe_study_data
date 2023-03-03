@@ -13,8 +13,10 @@ Meta data is located on the second sheet of each excel.
 
 The column "Intervened" is 1 if the score of the semester is no less than 70, which is considered as exposed enough to the course intervention--otherwise it is 0.
 
+Liner evaluation starts from the column named \_pre\_hbt\_1 since it is the beginning of the body of the questionnaire, where people are most likely to give linear responses.
+
 Note that in meta sheet, the pre_trapped as well as pst_trapped question description is hidden among the question columns. We didn't move it to the front to align it with the original questionnaire.
 
 In the meta data sheet, the column "Participant" is the number of all course students who we invited to fill out the survey; The column "Response" represents the count of responses we received; The column "Rate" is simply the quotient of the participants over the responses; The column "Respond_twice" shows the number of people who did both the pre- & post-survey.
 
-In the meta data sheet, the column "Participant" is the number of all course students who we invited to fill out the survey; The column "Response" represents the count of responses we received; The column "Rate" is simply the quotient of the participants over the responses; The column "Respond_twice" shows the number of people who did both the pre- and post-survey.
+In the meta data sheet, the column "Participant" is the number of all the course students who we invited to fill out the survey; The column "Response" represents the count of responses we received; The column "Rate" is simply the quotient of the participants over the responses; The column "Respond_twice" shows the number of people who did both the pre- and post-survey.
