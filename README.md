@@ -13,7 +13,7 @@ Meta data is located on the second sheet of each excel.
 
 The column "Intervened" is 1 if the score of the semester is no less than 70, which is considered as exposed enough to the course intervention--otherwise it is 0.
 
-Note the pre_trapped as well as pst_trapped questions is hidden among the question columns. We didn't move it to the front to align it with the original questionnaire. Make sure you handle them first.
+Note that in meta sheet, the pre_trapped as well as pst_trapped question description is hidden among the question columns. We didn't move it to the front to align it with the original questionnaire.
 
 In the meta data sheet, the column "Participant" is the number of all course students who we invited to fill out the survey; The column "Response" represents the count of responses we received; The column "Rate" is simply the quotient of the participants over the responses; The column "Respond_twice" shows the number of people who did both the pre- & post-survey.
 
