@@ -13,7 +13,8 @@ Meta data is located on the second sheet of each excel.
 
 The column "Intervened" is 1 if the score of the semester is no less than 70, which is considered as exposed enough to the course intervention--otherwise it is 0.
 
-Liner evaluation starts from the column named \_pre\_hbt\_1 since it is the beginning of the body of the questionnaire, where people are most likely to give linear responses.
+Pre_liner column evaluation starts from the column named \_pre\_hbt\_1 to \_pre\_tbb\_1
+since it is the beginning of the body of the questionnaire, where people are most likely to give linear responses. Similar way goes to pst_liner column.
 
 Note that in meta sheet, the pre_trapped as well as pst_trapped question description is hidden among the question columns. We didn't move it to the front to align it with the original questionnaire.
 
