@@ -1,0 +1,4 @@
+- The video summarizes a total of 1,023 responses, analyzed in NotebookLM over five semesters https://youtu.be/LAib29tcMcQ
+- BBE 字幕版 https://english.bestbanana.cc/cinema?v=LAib29tcMcQ
+- 質化研究 https://english.bestbanana.cc/blog/?p=18461
+- 原始資料 https://github.com/bbenglish/bbe_study_data.git
