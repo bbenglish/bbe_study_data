@@ -1,21 +1,13 @@
-- 👋 Hi, I’m Toma. Well met! This repository host the de-identitified data from researches on https://bestbanana.cc
-- 👀 I’m interested in English education, Extensive Viewing in particular.
-- 🌱 I’m currently doing research about Extensive Viewing in the form of CALL in distance education.
-- 📫 I’m looking to collaborate with on-site educationists. Contact me at bestbanana.tw@gmail.com
+👋 Hi, I’m Toma. Well met! This repository hosts de-identified data from research conducted at https://bestbanana.cc. My work focuses on English education, with a particular interest in Extensive Viewing and its application in Computer-Assisted Language Learning (CALL). I am currently researching how Extensive Viewing can support language learning in distance education environments. I welcome collaboration with educators, researchers, and practitioners who share an interest in language education and educational technology. 📫 Feel free to contact me at [english@bestbanana.cc](mailto:bestbanana.tw@gmail.com).
 
 # Interview Data
 
-At the end of our class, Helloworld in English, we ask students to leave a comment by answering this question: "What do you think of our class?"
+At the end of our class, Helloworld in English, we ask students to leave a comment by answering this question: "What do you think of our class?" Click here to see all responses collected from 2021 to 2026: [Student Feedback](https://docs.google.com/spreadsheets/d/1eaEXQXGbZ-rUnPOWOEZAvUQNntKqXzvfYMro2VMk0vo/edit?usp=sharing)
 
-Click here to see all responses collected from 2021 to 2026:
-
-[Student Feedback Form](https://docs.google.com/spreadsheets/d/1eaEXQXGbZ-rUnPOWOEZAvUQNntKqXzvfYMro2VMk0vo/edit?usp=sharing)
-
+The video summarizes a total of 1,023 responses collected during the first five semesters and analyzed using NotebookLM: https://youtu.be/LAib29tcMcQ or [BBE subtitled version](https://english.bestbanana.cc/cinema?v=LAib29tcMcQ).
 
 
 # About the survey Data
-
-[![DOI](https://zenodo.org/badge/431678308.svg)](https://zenodo.org/badge/latestdoi/431678308)
 
 1101_pre.xlsx differs from 1101.xlsx, in that some participants didn't do the post-survey, yet their opinions are still valid. You can see it in Sheet1 of the data. 
 
